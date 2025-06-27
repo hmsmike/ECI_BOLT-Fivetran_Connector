@@ -134,7 +134,7 @@ def update(configuration: dict, state: dict):
     
     # Set up API request headers with authentication and compatibility settings
     headers = {
-        "Authorization": f'Token token="{api_token}", name="stancil-services"',
+        "Authorization": f'Token token="{api_token}", name="TOKEN_NAME"',  ### <<< REPLACE "TOKEN_NAME" with your Token Name found in the OPEN API section of Bolt's Settings menu
         "Accept": "application/json"
     }
     
