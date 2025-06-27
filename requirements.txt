@@ -1,0 +1,14 @@
+# Bolt ECI Fivetran Connector Dependencies
+# ========================================
+
+# Note: fivetran_connector_sdk and requests are automatically available
+# in the Fivetran execution environment and should not be included here.
+
+# Data manipulation and processing
+pandas==2.3.0
+
+# Development and testing dependencies (optional - for local development only)
+# pytest>=6.0.0
+# pytest-cov>=2.10.0
+# black>=21.0.0
+# flake8>=3.8.0
