@@ -3,5 +3,5 @@
     "api_token": "YOUR_API_TOKEN_HERE"
 }
 
- "_comment": "API TOKEN above and also change "TOKEN_NAME" in the Connector.py with your Token Name" 
+ "_comment": "API TOKEN above and also change TOKEN_NAME in the Connector.py with your Token Name" 
  "_comment": "both of these can be found in the OPEN API section of Bolt's Settings menu."
